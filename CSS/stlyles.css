@@ -1,0 +1,58 @@
+
+
+
+.header {
+    margin:auto;
+}
+
+
+body{
+    font-family:sans-serif;
+    padding-bottom: 20px;
+
+}
+
+
+.h1index{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+  
+
+}
+
+.h1sidebar{
+    font-family: 'Segoe UI';
+    color: coral;
+    
+}
+
+
+.imagemain{
+        width: 60%;
+        height: inherit;
+}
+
+
+
+
+.navbar-nav li a:hover{
+
+    
+    transform: 1s;
+  
+    color:blueviolet;
+   
+}   
+.nav-item{
+    padding: 5px;
+
+    
+}
+
+.nav-item a{
+    color: rgb(84, 156, 252);
+    
+}
+
+
+

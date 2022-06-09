@@ -1,0 +1,20 @@
+
+li a:hover{
+
+    background-color: bisque ;
+    transform: 0.5s;
+}
+
+
+#abouth1{
+    color: blueviolet;
+    font-family:Georgia,;
+
+}
+
+
+.main-footer{
+    background-color: blueviolet;
+    margin-top: auto;  
+}
+
